@@ -12,4 +12,4 @@ Conductive:
 Usable:
   Can the player interact with this item while it is in their hands. Ex: Turning on a walkie talkie.
 Moon:
-  The planet where the item is the most commonly found on.
+  The planet where the item is the most commonly found on. If the value is ??? then the item is not determined by a moon's loot table.
