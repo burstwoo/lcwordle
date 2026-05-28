@@ -5,7 +5,7 @@ Red:
 Yellow:
   Similar Value
 Green:
-  Correct Vale
+  Correct Value
 
 Average Cost:
   The average cost of an item.
