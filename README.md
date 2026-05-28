@@ -1,9 +1,15 @@
 Wordle but its with Lethal Company Scrap!
 
-Red means the value is incorrect, Yellow means the value is close, and Green means it is the correct value.
-Avg Cost
+Red:
+  Incorrect Value
+Yellow:
+  Similar Value
+Green:
+  Correct Vale
+
+Average Cost:
   The average cost of an item.
-Weight
+Weight:
   The weight of an item.
 Two Handed:
   If the item takes up both of the players hands.
