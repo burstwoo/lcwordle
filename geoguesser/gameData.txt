@@ -1,0 +1,5 @@
+{
+  "dailyChallengePool":[""],
+  "imageFiles":["image1.txt","image2.txt"]
+  "imageName":"imageNames.txt"
+}
