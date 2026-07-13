@@ -1,3 +1,4 @@
 {
   "version":"v0.9.1a"
+  "availibleGames":["yahtzee","gameOf12","connectFour"]
 }
