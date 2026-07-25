@@ -1026,7 +1026,7 @@
     "name"      : "Shovel",
     "min"       : 0,
     "max"       : 0,
-    "weight"    : 14,
+    "weight"    : 11,
     "conductive": 1,
     "twohanded" : 0,
     "common"    : 1,
