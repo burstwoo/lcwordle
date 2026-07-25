@@ -35,17 +35,17 @@
   "TZP Inhalant",
   ["Drugs", "Speed", "Fast"],
   "Magic 7 Ball",
-  ["Cheater",  "Magic 8 Ball",  "Magic Eight Ball",  "Magic Seven Ball",  "Pool Ball",  "Billiard Ball"],
+  ["Cheater", "Magic 8 Ball, "Magic Eight Ball", "Magic Seven Ball", "Pool Ball", "Billiard Ball"],
   "Body",
   ["Dead Body", "Player Body", "My Friend"],
   "Knee",
-  ["Thigh", "Leg", "Limb"],
+  ["Thigh", "Leg", "Limb", "Body Part"],
   "Garbage Lid",
   ["Trash Lid"],
   "Weed Killer",
   ["Spray", "Weed Spray"],
   "Ribcage",
-  ["Ribs"],
+  ["Ribs","Body Part"],
   "Gift Box",
   ["Present"],
   "Comedy",
@@ -58,4 +58,14 @@
   ["Chemistry Flask", "Science Flask"],
   "Hairdryer",
   ["Blowdryer"]
+  "Heart"
+  ["Body Part"]
+  "Ear"
+  ["Body Part"]
+  "Hand"
+  ["Body Part","Limb"] 
+  "Foot"
+  ["Body Part","Feet","Limb"]
+  "Tongue"
+  ["Body Part","Freakazoid"]
 ]
