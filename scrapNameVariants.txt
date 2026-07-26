@@ -67,5 +67,7 @@
   "Foot",
   ["Body Part","Feet","Limb"],
   "Tongue",
-  ["Body Part","Freakazoid"]
+  ["Body Part","Freakazoid"],
+  "Bone"
+  ["Body Part"]
 ]
