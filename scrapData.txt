@@ -894,7 +894,7 @@
     "battery"   : 0,
     "usable"    : 0,
     "variants"  : 0,
-    "category"  : ["item"]
+    "category"  : ["misc"]
   },
   {
     "name"      : "Sticky Note",
