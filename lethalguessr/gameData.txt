@@ -1,4 +1,3 @@
 {
   "version":"v0.0.1ALPHA"
-  "image_resources":[""]
 }
