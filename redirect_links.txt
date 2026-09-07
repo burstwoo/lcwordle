@@ -4,7 +4,7 @@
     "title":"Lethal Company Wordle",
     "shorthand":"LC Wordle",
     "url":"https://lcwordle.com",
-    "description":"A lethal company wordle game! Guess the correct scrap each day, or play as many times as you like in endless mode!"
+    "description":"A Lethal Company Wordle game! Guess the correct scrap! Play the Daily Challenge or play forever in Endless!"
   },
   {
     "id":"bwgames",
