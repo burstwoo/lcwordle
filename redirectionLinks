@@ -1,5 +1,20 @@
 [
-  "https://lcwordle.com",
-  "https://lcwordle.com/bwgames",
-  "https://lcwordle.com/lcguessr"
+  {
+    "title":"Lethal Company Wordle",
+    "shorthand":"LC Wordle",
+    "url":"https://lcwordle.com",
+    "description":"A lethal company wordle game! Guess the correct scrap each day, or play as many times as you like in endless mode!"
+  },
+  {
+    "title":"Burstwoo Games",
+    "shorthand":"Bw Games",
+    "url":"https://lcwordle.com/bwgames",
+    "description":"A collage of board games you can play with online with friends!"
+  },
+  {
+    "title":"Lethal Guessr",
+    "shorthand":"LC Guessr",
+    "url":"https://lcwordle.com/lcguessr",
+    "description":"A Lethal Company Geoguessr game! Correctly locate where you are! Play with friends or alone!"
+  }
 ]
