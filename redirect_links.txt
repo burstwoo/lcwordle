@@ -12,13 +12,5 @@
     "shorthand":"Bw Games",
     "url":"https://lcwordle.com/bwgames",
     "description":"A collage of board games you can play with online with friends!"
-  },
-  {
-    "id":"lcguessr",
-    "title":"Lethal Guessr",
-    "shorthand":"LC Guessr",
-    "url":"https://lcwordle.com/lcguessr",
-    "description":"A Lethal Company Geoguessr game! Correctly locate where you are! Play with friends or alone!",
-    "disabled":1
   }
 ]
