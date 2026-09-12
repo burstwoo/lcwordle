@@ -1,3 +1,35 @@
 {
-  "version": 1
+  "adamance": {
+    "images": 7
+  },
+  "artifice": {
+    "images": 7
+  },
+  "assurance": {
+    "images": 7
+  },
+  "company": {
+    "images": 7
+  },
+  "dine": {
+    "images": 7
+  },
+  "embrion": {
+    "images": 7
+  },
+  "experimentation": {
+    "images": 7
+  },
+  "march": {
+    "images": 7
+  },
+  "offense": {
+    "images": 7
+  },
+  "titan": {
+    "images": 7
+  },
+  "vow": {
+    "images": 7
+  }
 }
