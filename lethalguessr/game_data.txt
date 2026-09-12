@@ -1,4 +1,4 @@
 {
   "version":"v1.0"
-  "resources_version":2
+  "resources_version":"v1.0"
 }

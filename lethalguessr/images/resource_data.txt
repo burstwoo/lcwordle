@@ -1,35 +1,661 @@
 {
-  "adamance": {
-    "images": 7
+  [
+  {
+    "id": "adamance1",
+    "location": [
+      185,
+      27
+    ],
+    "moon": 7
   },
-  "artifice": {
-    "images": 7
+  {
+    "id": "adamance2",
+    "location": [
+      166,
+      144
+    ],
+    "moon": 7
   },
-  "assurance": {
-    "images": 7
+  {
+    "id": "adamance3",
+    "location": [
+      -107,
+      -260
+    ],
+    "moon": 7
   },
-  "company": {
-    "images": 7
+  {
+    "id": "adamance4",
+    "location": [
+      -378,
+      90
+    ],
+    "moon": 7
   },
-  "dine": {
-    "images": 7
+  {
+    "id": "adamance5",
+    "location": [
+      -378,
+      90
+    ],
+    "moon": 7
   },
-  "embrion": {
-    "images": 7
+  {
+    "id": "adamance6",
+    "location": [
+      -119,
+      212
+    ],
+    "moon": 7
   },
-  "experimentation": {
-    "images": 7
+  {
+    "id": "adamance7",
+    "location": [
+      -397,
+      47
+    ],
+    "moon": 7
   },
-  "march": {
-    "images": 7
+  {
+    "id": "assurance1",
+    "location": [
+      8050,
+      57
+    ],
+    "moon": 3
   },
-  "offense": {
-    "images": 7
+  {
+    "id": "assurance2",
+    "location": [],
+    "moon": 3
   },
-  "titan": {
-    "images": 7
+  {
+    "id": "assurance3",
+    "location": [
+      -520,
+      174
+    ],
+    "moon": 3
   },
-  "vow": {
-    "images": 7
+  {
+    "id": "assurance4",
+    "location": [],
+    "moon": 3
+  },
+  {
+    "id": "assurance5",
+    "location": [
+      2,
+      -139
+    ],
+    "moon": 3
+  },
+  {
+    "id": "assurance6",
+    "location": [
+      245,
+      309
+    ],
+    "moon": 3
+  },
+  {
+    "id": "assurance7",
+    "location": [
+      -543,
+      423
+    ],
+    "moon": 3
+  },
+  {
+    "id": "experimentation1",
+    "location": [
+      111,
+      279
+    ],
+    "moon": 2
+  },
+  {
+    "id": "experimentation2",
+    "location": [
+      -261,
+      -418
+    ],
+    "moon": 2
+  },
+  {
+    "id": "experimentation3",
+    "location": [
+      240,
+      -216
+    ],
+    "moon": 2
+  },
+  {
+    "id": "experimentation4",
+    "location": [
+      77,
+      181
+    ],
+    "moon": 2
+  },
+  {
+    "id": "experimentation5",
+    "location": [
+      -2,
+      359
+    ],
+    "moon": 2
+  },
+  {
+    "id": "experimentation6",
+    "location": [
+      -181,
+      -209
+    ],
+    "moon": 2
+  },
+  {
+    "id": "experimentation7",
+    "location": [
+      165,
+      -368
+    ],
+    "moon": 2
+  },
+  {
+    "id": "offense1",
+    "location": [
+      -100,
+      6
+    ],
+    "moon": 4
+  },
+  {
+    "id": "offense2",
+    "location": [
+      39,
+      221
+    ],
+    "moon": 4
+  },
+  {
+    "id": "offense3",
+    "location": [],
+    "moon": 4
+  },
+  {
+    "id": "offense4",
+    "location": [
+      -102,
+      -292
+    ],
+    "moon": 4
+  },
+  {
+    "id": "offense5",
+    "location": [
+      -271,
+      -199
+    ],
+    "moon": 4
+  },
+  {
+    "id": "offense6",
+    "location": [
+      -137,
+      284
+    ],
+    "moon": 4
+  },
+  {
+    "id": "offense7",
+    "location": [
+      302,
+      -129
+    ],
+    "moon": 4
+  },
+  {
+    "id": "rend1",
+    "location": [
+      207,
+      -138
+    ],
+    "moon": 8
+  },
+  {
+    "id": "rend2",
+    "location": [],
+    "moon": 8
+  },
+  {
+    "id": "rend3",
+    "location": [
+      -30,
+      -222
+    ],
+    "moon": 8
+  },
+  {
+    "id": "rend4",
+    "location": [
+      -200,
+      119
+    ],
+    "moon": 8
+  },
+  {
+    "id": "rend5",
+    "location": [
+      -2,
+      94
+    ],
+    "moon": 8
+  },
+  {
+    "id": "rend6",
+    "location": [
+      -31,
+      -214
+    ],
+    "moon": 8
+  },
+  {
+    "id": "rend7",
+    "location": [
+      19,
+      -175
+    ],
+    "moon": 8
+  },
+  {
+    "id": "artifice1",
+    "location": [
+      -353,
+      59
+    ],
+    "moon": 11
+  },
+  {
+    "id": "artifice2",
+    "location": [
+      -332,
+      -265
+    ],
+    "moon": 11
+  },
+  {
+    "id": "artifice3",
+    "location": [
+      -85,
+      -412
+    ],
+    "moon": 11
+  },
+  {
+    "id": "artifice4",
+    "location": [
+      35,
+      -255
+    ],
+    "moon": 11
+  },
+  {
+    "id": "artifice5",
+    "location": [
+      118,
+      -274
+    ],
+    "moon": 11
+  },
+  {
+    "id": "artifice6",
+    "location": [
+      18,
+      137
+    ],
+    "moon": 11
+  },
+  {
+    "id": "artifice7",
+    "location": [
+      -148,
+      69
+    ],
+    "moon": 11
+  },
+  {
+    "id": "company1",
+    "location": [
+      52,
+      299
+    ],
+    "moon": 1
+  },
+  {
+    "id": "company2",
+    "location": [
+      -628,
+      166
+    ],
+    "moon": 1
+  },
+  {
+    "id": "company3",
+    "location": [
+      -400,
+      201
+    ],
+    "moon": 1
+  },
+  {
+    "id": "company4",
+    "location": [
+      81,
+      285
+    ],
+    "moon": 1
+  },
+  {
+    "id": "company5",
+    "location": [
+      -179,
+      331
+    ],
+    "moon": 1
+  },
+  {
+    "id": "company6",
+    "location": [
+      115,
+      58
+    ],
+    "moon": 1
+  },
+  {
+    "id": "company7",
+    "location": [
+      -29,
+      39
+    ],
+    "moon": 1
+  },
+  {
+    "id": "dine1",
+    "location": [
+      152,
+      174
+    ],
+    "moon": 9
+  },
+  {
+    "id": "dine2",
+    "location": [
+      24,
+      273
+    ],
+    "moon": 9
+  },
+  {
+    "id": "dine3",
+    "location": [
+      -72,
+      148
+    ],
+    "moon": 9
+  },
+  {
+    "id": "dine4",
+    "location": [
+      -176,
+      -233
+    ],
+    "moon": 9
+  },
+  {
+    "id": "dine5",
+    "location": [
+      -130,
+      154
+    ],
+    "moon": 9
+  },
+  {
+    "id": "dine6",
+    "location": [
+      206,
+      200
+    ],
+    "moon": 9
+  },
+  {
+    "id": "dine7",
+    "location": [
+      -46,
+      167
+    ],
+    "moon": 9
+  },
+  {
+    "id": "embrion1",
+    "location": [
+      30,
+      -210
+    ],
+    "moon": 12
+  },
+  {
+    "id": "embrion2",
+    "location": [
+      185,
+      160
+    ],
+    "moon": 12
+  },
+  {
+    "id": "embrion3",
+    "location": [
+      -213,
+      -102
+    ],
+    "moon": 12
+  },
+  {
+    "id": "embrion4",
+    "location": [
+      -82,
+      -204
+    ],
+    "moon": 12
+  },
+  {
+    "id": "embrion5",
+    "location": [
+      -131,
+      249
+    ],
+    "moon": 12
+  },
+  {
+    "id": "embrion6",
+    "location": [
+      273,
+      133
+    ],
+    "moon": 12
+  },
+  {
+    "id": "embrion7",
+    "location": [
+      178,
+      175
+    ],
+    "moon": 12
+  },
+  {
+    "id": "march1",
+    "location": [
+      -199,
+      20
+    ],
+    "moon": 6
+  },
+  {
+    "id": "march2",
+    "location": [
+      -18,
+      -102
+    ],
+    "moon": 6
+  },
+  {
+    "id": "march3",
+    "location": [
+      262,
+      328
+    ],
+    "moon": 6
+  },
+  {
+    "id": "march4",
+    "location": [
+      -102,
+      -356
+    ],
+    "moon": 6
+  },
+  {
+    "id": "march5",
+    "location": [
+      -123,
+      875
+    ],
+    "moon": 6
+  },
+  {
+    "id": "march6",
+    "location": [],
+    "moon": 6
+  },
+  {
+    "id": "march7",
+    "location": [
+      313,
+      -249
+    ],
+    "moon": 6
+  },
+  {
+    "id": "titan1",
+    "location": [
+      -200,
+      194
+    ],
+    "moon": 10
+  },
+  {
+    "id": "titan2",
+    "location": [
+      -153,
+      362
+    ],
+    "moon": 10
+  },
+  {
+    "id": "titan3",
+    "location": [
+      -177,
+      218
+    ],
+    "moon": 10
+  },
+  {
+    "id": "titan4",
+    "location": [
+      174,
+      -55
+    ],
+    "moon": 10
+  },
+  {
+    "id": "titan5",
+    "location": [
+      15,
+      -7
+    ],
+    "moon": 10
+  },
+  {
+    "id": "titan6",
+    "location": [
+      -106,
+      105
+    ],
+    "moon": 10
+  },
+  {
+    "id": "titan7",
+    "location": [
+      9,
+      -39
+    ],
+    "moon": 10
+  },
+  {
+    "id": "vow1",
+    "location": [
+      435,
+      26
+    ],
+    "moon": 5
+  },
+  {
+    "id": "vow2",
+    "location": [
+      126,
+      258
+    ],
+    "moon": 5
+  },
+  {
+    "id": "vow3",
+    "location": [
+      -234,
+      73
+    ],
+    "moon": 5
+  },
+  {
+    "id": "vow4",
+    "location": [
+      334,
+      -304
+    ],
+    "moon": 5
+  },
+  {
+    "id": "vow5",
+    "location": [
+      -441,
+      -176
+    ],
+    "moon": 5
+  },
+  {
+    "id": "vow6",
+    "location": [
+      92,
+      311
+    ],
+    "moon": 5
+  },
+  {
+    "id": "vow7",
+    "location": [
+      -295,
+      -29
+    ],
+    "moon": 5
   }
+]
 }
