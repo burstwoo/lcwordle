@@ -57,10 +57,7 @@
   },
   {
     "id": "assurance1",
-    "location": [
-      8050,
-      57
-    ],
+    "location": [],
     "moon": 3
   },
   {
@@ -71,14 +68,17 @@
   {
     "id": "assurance3",
     "location": [
-      -520,
-      174
+      -411,
+      59
     ],
     "moon": 3
   },
   {
     "id": "assurance4",
-    "location": [],
+    "location": [
+      -306,
+      -319
+    ],
     "moon": 3
   },
   {
@@ -108,56 +108,56 @@
   {
     "id": "experimentation1",
     "location": [
-      111,
-      279
+      123,
+      331
     ],
     "moon": 2
   },
   {
     "id": "experimentation2",
     "location": [
-      -261,
-      -418
+      -254,
+      -428
     ],
     "moon": 2
   },
   {
     "id": "experimentation3",
     "location": [
-      240,
-      -216
+      265,
+      -193
     ],
     "moon": 2
   },
   {
     "id": "experimentation4",
     "location": [
-      77,
-      181
+      110,
+      221
     ],
     "moon": 2
   },
   {
     "id": "experimentation5",
     "location": [
-      -2,
-      359
+      4,
+      398
     ],
     "moon": 2
   },
   {
     "id": "experimentation6",
     "location": [
-      -181,
-      -209
+      -100,
+      110
     ],
     "moon": 2
   },
   {
     "id": "experimentation7",
     "location": [
-      165,
-      -368
+      171,
+      -86
     ],
     "moon": 2
   },
@@ -179,23 +179,20 @@
   },
   {
     "id": "offense3",
-    "location": [],
+    "location": [
+      181,
+      382
+    ],
     "moon": 4
   },
   {
     "id": "offense4",
-    "location": [
-      -102,
-      -292
-    ],
+    "location": [],
     "moon": 4
   },
   {
     "id": "offense5",
-    "location": [
-      -271,
-      -199
-    ],
+    "location": [],
     "moon": 4
   },
   {
@@ -208,10 +205,7 @@
   },
   {
     "id": "offense7",
-    "location": [
-      302,
-      -129
-    ],
+    "location": [],
     "moon": 4
   },
   {
@@ -224,7 +218,10 @@
   },
   {
     "id": "rend2",
-    "location": [],
+    "location": [
+      -174,
+      122
+    ],
     "moon": 8
   },
   {
@@ -253,18 +250,12 @@
   },
   {
     "id": "rend6",
-    "location": [
-      -31,
-      -214
-    ],
+    "location": [],
     "moon": 8
   },
   {
     "id": "rend7",
-    "location": [
-      19,
-      -175
-    ],
+    "location": [],
     "moon": 8
   },
   {
@@ -293,10 +284,7 @@
   },
   {
     "id": "artifice4",
-    "location": [
-      35,
-      -255
-    ],
+    "location": [],
     "moon": 11
   },
   {
@@ -509,18 +497,12 @@
   },
   {
     "id": "march3",
-    "location": [
-      262,
-      328
-    ],
+    "location": [],
     "moon": 6
   },
   {
     "id": "march4",
-    "location": [
-      -102,
-      -356
-    ],
+    "location": [],
     "moon": 6
   },
   {
@@ -634,10 +616,7 @@
   },
   {
     "id": "vow5",
-    "location": [
-      -441,
-      -176
-    ],
+    "location": [],
     "moon": 5
   },
   {
