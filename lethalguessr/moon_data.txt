@@ -1,0 +1,232 @@
+[
+  {
+    "name": "71-Gordion",
+    "color": 120,
+    "brightness": -40,
+    "short": "company",
+    "poi": {
+      "dropship": [
+        -332,
+        100
+      ],
+      "log": [
+        121,
+        -11
+      ]
+    },
+    "pos": [
+      4000,
+      -2400
+    ]
+  },
+  {
+    "name": "41-Experimentation",
+    "color": 20,
+    "brightness": -10,
+    "short": "experimentation",
+    "poi": {
+      "dropship": [
+        59,
+        124
+      ],
+      "log.1": [
+        -195,
+        -332
+      ],
+      "log.2": [
+        366,
+        60
+      ]
+    },
+    "pos": [
+      0,
+      0
+    ]
+  },
+  {
+    "name": "220-Assurance",
+    "color": 20,
+    "brightness": -10,
+    "short": "assurance",
+    "poi": {
+      "dropship": [
+        1418,
+        -269
+      ],
+      "log.1": [
+        1463,
+        341
+      ]
+    },
+    "pos": [
+      1600,
+      0
+    ]
+  },
+  {
+    "name": "21-Offense",
+    "color": 20,
+    "brightness": -10,
+    "short": "offense",
+    "pos": [
+      800,
+      -400
+    ]
+  },
+  {
+    "name": "56-Vow",
+    "color": 60,
+    "brightness": -50,
+    "short": "vow",
+    "poi": {
+      "dropship": [
+        -205,
+        -138
+      ],
+      "log.1": [
+        183,
+        267
+      ]
+    },
+    "pos": [
+      3200,
+      0
+    ]
+  },
+  {
+    "name": "61-March",
+    "color": 40,
+    "brightness": -50,
+    "short": "march",
+    "poi": {
+      "dropship": [
+        -156,
+        3
+      ],
+      "log.1": [
+        -302,
+        166
+      ]
+    },
+    "pos": [
+      4000,
+      -400
+    ]
+  },
+  {
+    "name": "20-Adamance",
+    "color": 50,
+    "brightness": -30,
+    "short": "adamance",
+    "poi": {
+      "dropship": [
+        36,
+        -87
+      ],
+      "log.1": [
+        -619,
+        -230
+      ]
+    },
+    "pos": [
+      4800,
+      0
+    ]
+  },
+  {
+    "name": "85-Rend",
+    "color": 100,
+    "brightness": 30,
+    "short": "rend",
+    "poi": {
+      "dropship": [
+        136,
+        -213
+      ],
+      "log.1": [
+        -319,
+        415
+      ]
+    },
+    "pos": [
+      8000,
+      0
+    ]
+  },
+  {
+    "name": "7-Dine",
+    "color": 100,
+    "brightness": 30,
+    "short": "dine",
+    "poi": {
+      "dropship": [
+        13,
+        -281
+      ],
+      "log.1": [
+        -66,
+        292
+      ]
+    },
+    "pos": [
+      6400,
+      0
+    ]
+  },
+  {
+    "name": "8-Titan",
+    "color": 100,
+    "brightness": 30,
+    "short": "titan",
+    "poi": {
+      "dropship": [
+        -172,
+        -254
+      ],
+      "log.1": [
+        -95,
+        320
+      ]
+    },
+    "pos": [
+      7200,
+      -400
+    ]
+  },
+  {
+    "name": "68-Artifice",
+    "color": 40,
+    "brightness": -40,
+    "short": "artifice",
+    "poi": {
+      "dropship": [
+        393,
+        -32
+      ],
+      "log.1": [
+        -95,
+        -273
+      ]
+    },
+    "pos": [
+      10000,
+      0
+    ]
+  },
+  {
+    "name": "5-Embrion",
+    "color": 150,
+    "brightness": -30,
+    "short": "embrion",
+    "poi": {
+      "dropship": [
+        -219,
+        -384
+      ]
+    },
+    "pos": [
+      800,
+      1600
+    ]
+  }
+]
