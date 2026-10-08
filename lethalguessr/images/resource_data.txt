@@ -2,16 +2,16 @@
   {
     "id": "adamance1",
     "location": [
-      185,
-      27
+      189,
+      26
     ],
     "moon": 7
   },
   {
     "id": "adamance2",
     "location": [
-      166,
-      144
+      167,
+      146
     ],
     "moon": 7
   },
@@ -34,8 +34,8 @@
   {
     "id": "adamance5",
     "location": [
-      -378,
-      90
+      253,
+      -118
     ],
     "moon": 7
   },
@@ -57,7 +57,10 @@
   },
   {
     "id": "assurance1",
-    "location": [],
+    "location": [
+      78,
+      34
+    ],
     "moon": 3
   },
   {
@@ -100,8 +103,8 @@
   {
     "id": "assurance7",
     "location": [
-      -543,
-      423
+      -194,
+      -143
     ],
     "moon": 3
   },
@@ -187,7 +190,10 @@
   },
   {
     "id": "offense4",
-    "location": [],
+    "location": [
+      -38,
+      -252
+    ],
     "moon": 4
   },
   {
@@ -205,7 +211,10 @@
   },
   {
     "id": "offense7",
-    "location": [],
+    "location": [
+      -413,
+      -407
+    ],
     "moon": 4
   },
   {
@@ -250,12 +259,18 @@
   },
   {
     "id": "rend6",
-    "location": [],
+    "location": [
+      5,
+      -184
+    ],
     "moon": 8
   },
   {
     "id": "rend7",
-    "location": [],
+    "location": [
+      -249,
+      -311
+    ],
     "moon": 8
   },
   {
@@ -284,7 +299,10 @@
   },
   {
     "id": "artifice4",
-    "location": [],
+    "location": [
+      117,
+      45
+    ],
     "moon": 11
   },
   {
@@ -402,16 +420,16 @@
   {
     "id": "dine5",
     "location": [
-      -130,
-      154
+      -190,
+      192
     ],
     "moon": 9
   },
   {
     "id": "dine6",
     "location": [
-      206,
-      200
+      203,
+      212
     ],
     "moon": 9
   },
@@ -497,12 +515,18 @@
   },
   {
     "id": "march3",
-    "location": [],
+    "location": [
+      242,
+      142
+    ],
     "moon": 6
   },
   {
     "id": "march4",
-    "location": [],
+    "location": [
+      36,
+      135
+    ],
     "moon": 6
   },
   {
@@ -529,8 +553,8 @@
   {
     "id": "titan1",
     "location": [
-      -200,
-      194
+      -21,
+      12
     ],
     "moon": 10
   },
@@ -545,8 +569,8 @@
   {
     "id": "titan3",
     "location": [
-      -177,
-      218
+      -168,
+      206
     ],
     "moon": 10
   },
@@ -561,24 +585,24 @@
   {
     "id": "titan5",
     "location": [
-      15,
-      -7
+      31,
+      79
     ],
     "moon": 10
   },
   {
     "id": "titan6",
     "location": [
-      -106,
-      105
+      196,
+      28
     ],
     "moon": 10
   },
   {
     "id": "titan7",
     "location": [
-      9,
-      -39
+      0,
+      -32
     ],
     "moon": 10
   },
@@ -601,22 +625,25 @@
   {
     "id": "vow3",
     "location": [
-      -234,
-      73
+      182,
+      204
     ],
     "moon": 5
   },
   {
     "id": "vow4",
     "location": [
-      334,
-      -304
+      341,
+      251
     ],
     "moon": 5
   },
   {
     "id": "vow5",
-    "location": [],
+    "location": [
+      -7,
+      -23
+    ],
     "moon": 5
   },
   {
@@ -630,8 +657,8 @@
   {
     "id": "vow7",
     "location": [
-      -295,
-      -29
+      -343,
+      111
     ],
     "moon": 5
   }
