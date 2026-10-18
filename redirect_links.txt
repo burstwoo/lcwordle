@@ -7,13 +7,6 @@
     "description":"A Lethal Company Wordle game! Guess the correct scrap! Play the Daily Challenge or play forever in Endless!"
   },
   {
-    "id":"bwgames",
-    "title":"Burstwoo Games",
-    "shorthand":"Bw Games",
-    "url":"https://lcwordle.com/bwgames",
-    "description":"A collage of board games you can play with online with friends!"
-  },
-  {
     "id":"lcguessr",
     "title":"Lethal Guessr",
     "shorthand":"LC Guessr",
