@@ -10,7 +10,7 @@
     "id":"lcguessr",
     "title":"Lethal Guessr",
     "shorthand":"LC Guessr",
-    "url":"https://lcwordle.com/lcguessr",
+    "url":"https://lcwordle.com/lethalguessr",
     "description":"A Lethal Company Geoguessr game! Correctly locate where you are! Play with friends or alone!"
   }
 ]
