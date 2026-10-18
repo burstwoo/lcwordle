@@ -58,53 +58,56 @@
   {
     "id": "assurance1",
     "location": [
-      78,
-      34
+      106,
+      144
     ],
     "moon": 3
   },
   {
     "id": "assurance2",
-    "location": [],
+    "location": [
+      26,
+      142
+    ],
     "moon": 3
   },
   {
     "id": "assurance3",
     "location": [
-      -411,
-      59
+      -448,
+      134
     ],
     "moon": 3
   },
   {
     "id": "assurance4",
     "location": [
-      -306,
-      -319
+      -361,
+      -296
     ],
     "moon": 3
   },
   {
     "id": "assurance5",
     "location": [
-      2,
-      -139
+      14,
+      -164
     ],
     "moon": 3
   },
   {
     "id": "assurance6",
     "location": [
-      245,
-      309
+      285,
+      223
     ],
     "moon": 3
   },
   {
     "id": "assurance7",
     "location": [
-      -194,
-      -143
+      -206,
+      -91
     ],
     "moon": 3
   },
@@ -198,7 +201,10 @@
   },
   {
     "id": "offense5",
-    "location": [],
+    "location": [
+      -21,
+      142
+    ],
     "moon": 4
   },
   {
