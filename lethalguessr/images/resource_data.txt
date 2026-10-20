@@ -1,6 +1,7 @@
 [
   {
     "id": "adamance1",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance1.png",
     "location": [
       189,
       26
@@ -9,6 +10,7 @@
   },
   {
     "id": "adamance2",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance2.png",
     "location": [
       167,
       146
@@ -17,6 +19,7 @@
   },
   {
     "id": "adamance3",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance3.png",
     "location": [
       -107,
       -260
@@ -25,6 +28,7 @@
   },
   {
     "id": "adamance4",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance4.png",
     "location": [
       -378,
       90
@@ -33,6 +37,7 @@
   },
   {
     "id": "adamance5",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance5.png",
     "location": [
       280,
       100
@@ -41,6 +46,7 @@
   },
   {
     "id": "adamance6",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance6.png",
     "location": [
       -119,
       212
@@ -49,6 +55,7 @@
   },
   {
     "id": "adamance7",
+    "source":"https://lcwordle.com/lethalguessr/images/adamance/adamance7.png",
     "location": [
       -397,
       47
@@ -57,6 +64,7 @@
   },
   {
     "id": "assurance1",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance1.png",
     "location": [
       106,
       144
@@ -65,6 +73,7 @@
   },
   {
     "id": "assurance2",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance2.png",
     "location": [
       26,
       142
@@ -73,6 +82,7 @@
   },
   {
     "id": "assurance3",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance3.png",
     "location": [
       -448,
       134
@@ -81,6 +91,7 @@
   },
   {
     "id": "assurance4",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance4.png",
     "location": [
       -361,
       -296
@@ -89,6 +100,7 @@
   },
   {
     "id": "assurance5",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance5.png",
     "location": [
       14,
       -164
@@ -97,6 +109,7 @@
   },
   {
     "id": "assurance6",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance6.png",
     "location": [
       285,
       223
@@ -105,6 +118,7 @@
   },
   {
     "id": "assurance7",
+    "source":"https://lcwordle.com/lethalguessr/images/assurance/assurance7.png",
     "location": [
       -206,
       -91
@@ -113,6 +127,7 @@
   },
   {
     "id": "experimentation1",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation1.png",
     "location": [
       123,
       331
@@ -121,6 +136,7 @@
   },
   {
     "id": "experimentation2",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation2.png",
     "location": [
       -254,
       -428
@@ -129,6 +145,7 @@
   },
   {
     "id": "experimentation3",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation3.png",
     "location": [
       265,
       -193
@@ -137,6 +154,7 @@
   },
   {
     "id": "experimentation4",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation4.png",
     "location": [
       110,
       221
@@ -145,6 +163,7 @@
   },
   {
     "id": "experimentation5",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation5.png",
     "location": [
       4,
       398
@@ -153,6 +172,7 @@
   },
   {
     "id": "experimentation6",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation6.png",
     "location": [
       -100,
       110
@@ -161,6 +181,7 @@
   },
   {
     "id": "experimentation7",
+    "source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation7.png",
     "location": [
       171,
       -86
@@ -169,6 +190,7 @@
   },
   {
     "id": "offense1",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense1.png",
     "location": [
       -136,
       -85
@@ -177,6 +199,7 @@
   },
   {
     "id": "offense2",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense2.png",
     "location": [
       -28,
       147
@@ -185,6 +208,7 @@
   },
   {
     "id": "offense3",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense3.png",
     "location": [
       247,
       67
@@ -193,6 +217,7 @@
   },
   {
     "id": "offense4",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense4.png",
     "location": [
       -38,
       -252
@@ -201,6 +226,7 @@
   },
   {
     "id": "offense5",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense5.png",
     "location": [
       -21,
       142
@@ -209,6 +235,7 @@
   },
   {
     "id": "offense6",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense6.png",
     "location": [
       -137,
       207
@@ -217,6 +244,7 @@
   },
   {
     "id": "offense7",
+    "source":"https://lcwordle.com/lethalguessr/images/offense/offense7.png",
     "location": [
       -413,
       -407
@@ -225,6 +253,7 @@
   },
   {
     "id": "rend1",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend1.png",
     "location": [
       207,
       -138
@@ -233,6 +262,7 @@
   },
   {
     "id": "rend2",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend2.png",
     "location": [
       -174,
       122
@@ -241,6 +271,7 @@
   },
   {
     "id": "rend3",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend3.png",
     "location": [
       -30,
       -222
@@ -249,6 +280,7 @@
   },
   {
     "id": "rend4",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend4.png",
     "location": [
       -200,
       119
@@ -257,6 +289,7 @@
   },
   {
     "id": "rend5",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend5.png",
     "location": [
       -2,
       94
@@ -265,6 +298,7 @@
   },
   {
     "id": "rend6",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend6.png",
     "location": [
       5,
       -184
@@ -273,6 +307,7 @@
   },
   {
     "id": "rend7",
+    "source":"https://lcwordle.com/lethalguessr/images/rend/rend7.png",
     "location": [
       -249,
       -311
@@ -281,6 +316,7 @@
   },
   {
     "id": "artifice1",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice1.png",
     "location": [
       -353,
       59
@@ -289,6 +325,7 @@
   },
   {
     "id": "artifice2",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice2.png",
     "location": [
       -332,
       -265
@@ -297,6 +334,7 @@
   },
   {
     "id": "artifice3",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice3.png",
     "location": [
       -85,
       -412
@@ -305,6 +343,7 @@
   },
   {
     "id": "artifice4",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice4.png",
     "location": [
       117,
       45
@@ -313,6 +352,7 @@
   },
   {
     "id": "artifice5",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice5.png",
     "location": [
       118,
       -274
@@ -321,6 +361,7 @@
   },
   {
     "id": "artifice6",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice6.png",
     "location": [
       18,
       137
@@ -329,6 +370,7 @@
   },
   {
     "id": "artifice7",
+    "source":"https://lcwordle.com/lethalguessr/images/artifice/artifice7.png",
     "location": [
       -148,
       69
@@ -337,6 +379,7 @@
   },
   {
     "id": "company1",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company1.png",
     "location": [
       72,
       272
@@ -345,6 +388,7 @@
   },
   {
     "id": "company2",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company2.png",
     "location": [
       -659,
       77
@@ -353,6 +397,7 @@
   },
   {
     "id": "company3",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company3.png",
     "location": [
       -410,
       226
@@ -361,6 +406,7 @@
   },
   {
     "id": "company4",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company4.png",
     "location": [
       6,
       201
@@ -369,6 +415,7 @@
   },
   {
     "id": "company5",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company5.png",
     "location": [
       -161,
       331
@@ -377,6 +424,7 @@
   },
   {
     "id": "company6",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company6.png",
     "location": [
       115,
       62
@@ -385,6 +433,7 @@
   },
   {
     "id": "company7",
+    "source":"https://lcwordle.com/lethalguessr/images/company/company7.png",
     "location": [
       -22,
       28
@@ -393,6 +442,7 @@
   },
   {
     "id": "dine1",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine1.png",
     "location": [
       152,
       174
@@ -401,6 +451,7 @@
   },
   {
     "id": "dine2",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine2.png",
     "location": [
       24,
       273
@@ -409,6 +460,7 @@
   },
   {
     "id": "dine3",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine3.png",
     "location": [
       -72,
       148
@@ -417,6 +469,7 @@
   },
   {
     "id": "dine4",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine4.png",
     "location": [
       -176,
       -233
@@ -425,6 +478,7 @@
   },
   {
     "id": "dine5",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine5.png",
     "location": [
       -190,
       192
@@ -433,6 +487,7 @@
   },
   {
     "id": "dine6",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine6.png",
     "location": [
       203,
       212
@@ -441,6 +496,7 @@
   },
   {
     "id": "dine7",
+    "source":"https://lcwordle.com/lethalguessr/images/dine/dine7.png",
     "location": [
       -46,
       167
@@ -449,6 +505,7 @@
   },
   {
     "id": "embrion1",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion1.png",
     "location": [
       30,
       -210
@@ -457,6 +514,7 @@
   },
   {
     "id": "embrion2",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion2.png",
     "location": [
       185,
       160
@@ -465,6 +523,7 @@
   },
   {
     "id": "embrion3",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion3.png",
     "location": [
       -213,
       -102
@@ -473,6 +532,7 @@
   },
   {
     "id": "embrion4",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion4.png",
     "location": [
       -82,
       -204
@@ -481,6 +541,7 @@
   },
   {
     "id": "embrion5",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion5.png",
     "location": [
       -131,
       249
@@ -489,6 +550,7 @@
   },
   {
     "id": "embrion6",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion6.png",
     "location": [
       273,
       133
@@ -497,6 +559,7 @@
   },
   {
     "id": "embrion7",
+    "source":"https://lcwordle.com/lethalguessr/images/embrion/embrion7.png",
     "location": [
       178,
       175
@@ -505,6 +568,7 @@
   },
   {
     "id": "march1",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march1.png",
     "location": [
       -199,
       20
@@ -513,6 +577,7 @@
   },
   {
     "id": "march2",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march2.png",
     "location": [
       -18,
       -102
@@ -521,6 +586,7 @@
   },
   {
     "id": "march3",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march3.png",
     "location": [
       242,
       142
@@ -529,6 +595,7 @@
   },
   {
     "id": "march4",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march4.png",
     "location": [
       36,
       135
@@ -537,6 +604,7 @@
   },
   {
     "id": "march5",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march5.png",
     "location": [
       -123,
       875
@@ -545,6 +613,7 @@
   },
   {
     "id": "march6",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march6.png",
     "location": [
       247,
       190
@@ -553,6 +622,7 @@
   },
   {
     "id": "march7",
+    "source":"https://lcwordle.com/lethalguessr/images/march/march7.png",
     "location": [
       313,
       -249
@@ -561,6 +631,7 @@
   },
   {
     "id": "titan1",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan1.png",
     "location": [
       -21,
       12
@@ -569,6 +640,7 @@
   },
   {
     "id": "titan2",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan2.png",
     "location": [
       -153,
       362
@@ -577,6 +649,7 @@
   },
   {
     "id": "titan3",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan3.png",
     "location": [
       -168,
       206
@@ -585,6 +658,7 @@
   },
   {
     "id": "titan4",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan4.png",
     "location": [
       174,
       -55
@@ -593,6 +667,7 @@
   },
   {
     "id": "titan5",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan5.png",
     "location": [
       31,
       79
@@ -601,6 +676,7 @@
   },
   {
     "id": "titan6",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan6.png",
     "location": [
       196,
       28
@@ -609,6 +685,7 @@
   },
   {
     "id": "titan7",
+    "source":"https://lcwordle.com/lethalguessr/images/titan/titan7.png",
     "location": [
       0,
       -32
@@ -617,6 +694,7 @@
   },
   {
     "id": "vow1",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow1.png",
     "location": [
       435,
       26
@@ -625,6 +703,7 @@
   },
   {
     "id": "vow2",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow2.png",
     "location": [
       126,
       258
@@ -633,6 +712,7 @@
   },
   {
     "id": "vow3",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow3.png",
     "location": [
       182,
       204
@@ -641,6 +721,7 @@
   },
   {
     "id": "vow4",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow4.png",
     "location": [
       341,
       251
@@ -649,6 +730,7 @@
   },
   {
     "id": "vow5",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow5.png",
     "location": [
       -7,
       -23
@@ -657,6 +739,7 @@
   },
   {
     "id": "vow6",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow6.png",
     "location": [
       92,
       311
@@ -665,6 +748,7 @@
   },
   {
     "id": "vow7",
+    "source":"https://lcwordle.com/lethalguessr/images/vow/vow7.png",
     "location": [
       -343,
       111
