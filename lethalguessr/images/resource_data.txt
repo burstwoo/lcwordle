@@ -170,24 +170,24 @@
   {
     "id": "offense1",
     "location": [
-      -100,
-      6
+      -136,
+      -85
     ],
     "moon": 4
   },
   {
     "id": "offense2",
     "location": [
-      39,
-      221
+      -28,
+      147
     ],
     "moon": 4
   },
   {
     "id": "offense3",
     "location": [
-      181,
-      382
+      247,
+      67
     ],
     "moon": 4
   },
@@ -211,7 +211,7 @@
     "id": "offense6",
     "location": [
       -137,
-      284
+      207
     ],
     "moon": 4
   },
@@ -338,39 +338,39 @@
   {
     "id": "company1",
     "location": [
-      52,
-      299
+      72,
+      272
     ],
     "moon": 1
   },
   {
     "id": "company2",
     "location": [
-      -628,
-      166
+      -659,
+      77
     ],
     "moon": 1
   },
   {
     "id": "company3",
     "location": [
-      -400,
-      201
+      -410,
+      226
     ],
     "moon": 1
   },
   {
     "id": "company4",
     "location": [
-      81,
-      285
+      6,
+      201
     ],
     "moon": 1
   },
   {
     "id": "company5",
     "location": [
-      -179,
+      -161,
       331
     ],
     "moon": 1
@@ -379,15 +379,15 @@
     "id": "company6",
     "location": [
       115,
-      58
+      62
     ],
     "moon": 1
   },
   {
     "id": "company7",
     "location": [
-      -29,
-      39
+      -22,
+      28
     ],
     "moon": 1
   },
@@ -545,7 +545,10 @@
   },
   {
     "id": "march6",
-    "location": [],
+    "location": [
+      247,
+      190
+    ],
     "moon": 6
   },
   {
