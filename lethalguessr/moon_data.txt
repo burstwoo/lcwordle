@@ -1,6 +1,7 @@
 [
   {
     "name": "71-Gordion",
+    "map_source":"https://lcwordle.com/lethalguessr/images/company/company_map.png",
     "color": 120,
     "brightness": -40,
     "short": "company",
@@ -21,6 +22,7 @@
   },
   {
     "name": "41-Experimentation",
+    "map_source":"https://lcwordle.com/lethalguessr/images/experimentation/experimentation_map.png",
     "color": 20,
     "brightness": -10,
     "short": "experimentation",
@@ -45,6 +47,7 @@
   },
   {
     "name": "220-Assurance",
+    "map_source":"https://lcwordle.com/lethalguessr/images/company/company_map.png",
     "color": 20,
     "brightness": -10,
     "short": "assurance",
@@ -65,6 +68,7 @@
   },
   {
     "name": "21-Offense",
+    "map_source":"https://lcwordle.com/lethalguessr/images/offense/offense_map.png",
     "color": 20,
     "brightness": -10,
     "short": "offense",
@@ -75,6 +79,7 @@
   },
   {
     "name": "56-Vow",
+    "map_source":"https://lcwordle.com/lethalguessr/images/vow/vow_map.png",
     "color": 60,
     "brightness": -50,
     "short": "vow",
@@ -84,8 +89,8 @@
         -138
       ],
       "log.1": [
-        183,
-        267
+        247,
+        268
       ]
     },
     "pos": [
@@ -95,6 +100,7 @@
   },
   {
     "name": "61-March",
+    "map_source":"https://lcwordle.com/lethalguessr/images/march/march_map.png",
     "color": 40,
     "brightness": -50,
     "short": "march",
@@ -106,6 +112,10 @@
       "log.1": [
         -302,
         166
+      ],
+      "log.2": [
+        -149,
+        -362
       ]
     },
     "pos": [
@@ -115,6 +125,7 @@
   },
   {
     "name": "20-Adamance",
+    "map_source":"https://lcwordle.com/lethalguessr/images/adamance/adamance_map.png",
     "color": 50,
     "brightness": -30,
     "short": "adamance",
@@ -135,6 +146,7 @@
   },
   {
     "name": "85-Rend",
+    "map_source":"https://lcwordle.com/lethalguessr/images/rend/rend_map.png",
     "color": 100,
     "brightness": 30,
     "short": "rend",
@@ -155,6 +167,7 @@
   },
   {
     "name": "7-Dine",
+    "map_source":"https://lcwordle.com/lethalguessr/images/dine/dine_map.png",
     "color": 100,
     "brightness": 30,
     "short": "dine",
@@ -175,6 +188,7 @@
   },
   {
     "name": "8-Titan",
+    "map_source":"https://lcwordle.com/lethalguessr/images/titan/titan_map.png",
     "color": 100,
     "brightness": 30,
     "short": "titan",
@@ -195,6 +209,7 @@
   },
   {
     "name": "68-Artifice",
+    "map_source":"https://lcwordle.com/lethalguessr/images/artifice/artifice_map.png",
     "color": 40,
     "brightness": -40,
     "short": "artifice",
@@ -215,6 +230,7 @@
   },
   {
     "name": "5-Embrion",
+    "map_source":"https://lcwordle.com/lethalguessr/images/embrion/embrion_map.png",
     "color": 150,
     "brightness": -30,
     "short": "embrion",
