@@ -507,7 +507,7 @@
     "category": [
       "scrap"
     ],
-    "image": "https://lcwordle.com/scrap_images/life.png"
+    "image": "https://lcwordle.com/scrap_images/knife.png"
   },
   {
     "name": "Large Axle",
