@@ -1069,7 +1069,7 @@
     "category": [
       "misc"
     ],
-    "image": "https://lcwordle.com/scrap_images/Shotgun_shell.png"
+    "image": "https://lcwordle.com/scrap_images/Shotgun_shell.webp"
   },
   {
     "name": "Key",
@@ -1086,7 +1086,7 @@
     "category": [
       "misc"
     ],
-    "image": "https://lcwordle.com/scrap_images/key.png"
+    "image": "https://lcwordle.com/scrap_images/Key.png"
   },
   {
     "name": "Sticky Note",
